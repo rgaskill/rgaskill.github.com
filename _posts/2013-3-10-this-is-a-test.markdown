@@ -1,4 +1,0 @@
-TEST
-=====
-
-It worked!
