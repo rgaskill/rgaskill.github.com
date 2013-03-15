@@ -22,7 +22,7 @@ using testacular.
 
     testacular start
 
-The test is currently configured to run in chrome but it will run in Firefox as well
+The test is currently configured to run in chrome but it will run in Firefox as well.
 If you want to run the test in Firefox update the [testacular.conf.js](https://github.com/rgaskill/indexeddb-test/blob/master/testacular.conf.js)
 
     //replace
